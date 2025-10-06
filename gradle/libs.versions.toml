@@ -1,6 +1,6 @@
 [versions]
 agp = "8.13.0"
-kotlin = "2.2.20"
+kotlin = "1.9.22"
 ksp = "1.9.22-1.0.17" # Versão do KSP atrelada à versão do Kotlin
 appcompat = "1.7.1"
 material = "1.13.0"
