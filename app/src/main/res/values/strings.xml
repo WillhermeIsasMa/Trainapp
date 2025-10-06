@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">TrainApp</string>
+
+    <!-- Textos para activity_main.xml -->
+    <string name="main_screen_button">Fazer um Reporte</string>
+
+    <!-- Textos para activity_report.xml -->
+    <string name="report_description_hint">Descreva o problema ou a situação aqui...</string>
+    <string name="report_submit_button">Enviar Reporte</string>
+    <string name="main_screen_title">Aplicação de Comboios</string>
+    <string name="search_term_placeholder">Termo de Pesquisa</string>
 </resources>
